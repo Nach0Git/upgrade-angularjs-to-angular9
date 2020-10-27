@@ -9,7 +9,7 @@ const navigationComponent = {
                   <ul class="nav navbar-nav">
                     <li><a href="#/orders">Orders</a></li>
                     <li><a href="#/products">Product</a></li>
-                    <!-- <li><a href="#/orders">Orders</a></li>-->
+
                   </ul>
                 </div>
               </div>

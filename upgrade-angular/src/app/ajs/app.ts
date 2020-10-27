@@ -10,6 +10,8 @@ import navigationComponent from './navigation/navigation';
 import ordersController from './orders/orders';
 import productsController from './products/products';
 import ProductService from './products/productService'
+import {downgradeComponent} from "@angular/upgrade/static";
+
 
 const MODULE_NAME = 'app';
 

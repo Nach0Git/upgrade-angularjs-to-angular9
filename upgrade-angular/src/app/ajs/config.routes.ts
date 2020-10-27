@@ -6,7 +6,9 @@ function routeProviderConfig($routeProvider){
         template: '<orders></orders>'
     }).when('/products', {
         template: '<products></products>'
-    });
+    }).when('/newcomponent', {
+      template: '<newcomponent></newcomponent>'
+    })
 }
 
 export default routeProviderConfig;
